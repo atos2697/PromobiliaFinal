@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PromobiliaFinal/static/css/main.2f267fb2.chunk.css",
+    "main.js": "/PromobiliaFinal/static/js/main.5f893a7c.chunk.js",
+    "main.js.map": "/PromobiliaFinal/static/js/main.5f893a7c.chunk.js.map",
+    "runtime-main.js": "/PromobiliaFinal/static/js/runtime-main.d655d373.js",
+    "runtime-main.js.map": "/PromobiliaFinal/static/js/runtime-main.d655d373.js.map",
+    "static/js/2.f89977ed.chunk.js": "/PromobiliaFinal/static/js/2.f89977ed.chunk.js",
+    "static/js/2.f89977ed.chunk.js.map": "/PromobiliaFinal/static/js/2.f89977ed.chunk.js.map",
+    "static/js/3.44f83e08.chunk.js": "/PromobiliaFinal/static/js/3.44f83e08.chunk.js",
+    "static/js/3.44f83e08.chunk.js.map": "/PromobiliaFinal/static/js/3.44f83e08.chunk.js.map",
+    "index.html": "/PromobiliaFinal/index.html",
+    "static/css/main.2f267fb2.chunk.css.map": "/PromobiliaFinal/static/css/main.2f267fb2.chunk.css.map",
+    "static/js/2.f89977ed.chunk.js.LICENSE.txt": "/PromobiliaFinal/static/js/2.f89977ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d655d373.js",
+    "static/js/2.f89977ed.chunk.js",
+    "static/css/main.2f267fb2.chunk.css",
+    "static/js/main.5f893a7c.chunk.js"
+  ]
+}
